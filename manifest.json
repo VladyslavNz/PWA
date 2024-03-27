@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#f6d335",
+    "background_color" : "#f69435",
+    "display" : "browser",
+    "scope" : "/",
+    "start_url" : "/PWA/",
+    "name" : "Agronomy",
+    "short_name" : "AgroAPP",
+    "description" : "Raps",
+    "icons" : [
+        {
+            "src" : "./agronomy.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
